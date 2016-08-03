@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/Tweetable" version="1.0.0" viewmodes="maximized">
+    <access origin="*" subdomains="true"></access>
+    <tizen:application id="vjsLOtOaR0.Tweetable" package="vjsLOtOaR0" required_version="2.3"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png" height="117" width="117"/>
+    <name>Tweetable</name>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="mobile"/>
+</widget>

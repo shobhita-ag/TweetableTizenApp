@@ -1,0 +1,33 @@
+body {
+}
+
+#main_content {
+   /*border-radius: 5px;*/
+    /*background-color: #387bbe;*/
+    background-image: -webkit-linear-gradient( #5393c5 /*{global-active-background-start}*/, #6facd5 /*{global-active-background-end}*/); 
+    border: 2px solid #BBB;
+	border-bottom: 0px;
+    padding: 10px; 
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px; 
+    margin-bottom: 0px;
+}
+
+#advanced_content {
+	/*border-radius: 5px;*/
+    border: 2px solid #BBB;
+    padding: 10px; 
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px; 
+    margin-top: 0px;
+}
+
+.buttonDisabled {
+	color: #d5dbdb;
+	border-color: #d5dbdb;
+	opacity: .7;
+	background-color: #f4f6f6;
+	cursor: default;
+}

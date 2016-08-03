@@ -1,0 +1,11 @@
+#delete
+res/wgt/section2.html
+res/wgt/shortenUrl.html
+#add
+res/wgt/Active-Twitter-icon.png
+res/wgt/tweetable.png
+#modify
+res/wgt/author-signature.xml
+res/wgt/signature1.xml
+res/wgt/index.html
+res/wgt/js/tweetable.js
